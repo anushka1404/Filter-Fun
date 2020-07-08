@@ -1,0 +1,98 @@
+body{
+    background-color:rgba(242,210,251,1);
+    border:10px solid black;
+  }
+  h1{
+    text-align: center;
+    color: crimson;
+    font: 50px Arial;
+  }
+  h2{
+    margin:30px;
+    font: 30px Arial;
+    color: rgb(174, 27, 204);
+  }
+  canvas{
+     margin:30px;
+    Padding:40px;
+    width:150pt;
+    height:150pt;
+    border-style: outset;
+  }
+  p{
+    font-family:arial;
+    padding:10px;  
+    border:1px;
+  }
+  
+  input{
+   font-size:90%;
+   border:1px;
+   margin-left:40px;
+   font: 15px Arial;
+  }
+  
+  .greycolor{
+    background-color: grey;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    border-radius: 12px;
+    box-shadow: 0 5px #666;
+  }
+  
+  .redcolor{
+    background-color: red;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    box-shadow: 0 5px #666;
+    border-radius: 12px;
+  }
+  
+  .greencolor{
+    background-color: green;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    box-shadow: 0 5px #666;
+    border-radius: 12px;
+  }
+  
+  .bluecolor{
+    background-color: blue;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    box-shadow: 0 5px #666;
+    border-radius: 12px;
+  }
+  
+  .rainbowcolor{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    box-shadow: 0 5px #666;
+    border-radius: 12px;
+  }
+  
+  .reset{
+    background-color: wheat;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    border-radius: 50%;
+    border: 2px solid #4CAF50;
+    box-shadow: 0 5px #666;
+  }
+  
+  .clear{
+    background-color: wheat;
+    padding: 10px;
+    border: 1px solid grey;
+    font-weight: bold;
+    border-radius: 50%;
+    border: 2px solid #4CAF50;
+    box-shadow: 0 5px #666;
+  }
